@@ -1,0 +1,12 @@
+Instructions for Executing the code:
+
+1. The content of Project - 3 is bundled in Project3_Animesh.zip. It contains source images, result images, source codes and the project report.
+2. Each Task is a separate Python Code. There are 3 codes in Total.
+3. All the codes fetch inputs from the files placed in the Input directory.
+4. All the generated result images are written to the Results/Taski/ directory. 
+5. All you need to do is run the codes to generate the images. There is no manual intervention required.
+
+-- Animesh Paul
+-- UBIT Name: animeshp
+-- UB Person Number: 50290441
+
